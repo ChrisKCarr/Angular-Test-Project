@@ -4,7 +4,7 @@ import {
   Resolve,
   RouterStateSnapshot,
 } from '@angular/router';
-import { DataStorageService } from '../shared/data-shared-storage.service';
+import { DataStorageService } from '../shared/data-storage.service';
 import { Recipe } from './recipe.model';
 import { RecipeService } from './recipes.service';
 
